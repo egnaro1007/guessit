@@ -1,5 +1,5 @@
 # Guess it
-Computer pick a number and You to guest it!
+Computer pick a number and You GUESS IT!
 
 . . . That all!
 
